@@ -1,0 +1,6 @@
+C:\Users\dmolinaa\Documents\Documentos-D\Archivos\AscendingTree\AscendingTree\bin\Debug\AscendingTree.exe.config
+C:\Users\dmolinaa\Documents\Documentos-D\Archivos\AscendingTree\AscendingTree\bin\Debug\AscendingTree.exe
+C:\Users\dmolinaa\Documents\Documentos-D\Archivos\AscendingTree\AscendingTree\bin\Debug\AscendingTree.pdb
+C:\Users\dmolinaa\Documents\Documentos-D\Archivos\AscendingTree\AscendingTree\obj\Debug\AscendingTree.csproj.CoreCompileInputs.cache
+C:\Users\dmolinaa\Documents\Documentos-D\Archivos\AscendingTree\AscendingTree\obj\Debug\AscendingTree.exe
+C:\Users\dmolinaa\Documents\Documentos-D\Archivos\AscendingTree\AscendingTree\obj\Debug\AscendingTree.pdb
